@@ -9,7 +9,7 @@
 </p>
  
 - 📚 Studying Back End Development.
-- 🚀 Improving my knowledge of <strong>Java, Python and Node.js</strong>
+- 🚀 Improving my knowledge of <strong>Java, Python, JavaScript and Node.js</strong>
 - 📫 My email: oluis10@gmail.com
 
 <br>
