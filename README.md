@@ -9,7 +9,7 @@
 </p>
  
 - 📚 Studying Back End Development.
-- 🚀 Improving my knowledge of <strong>Java, Node.js and Flutter</strong>
+- 🚀 Improving my knowledge of <strong>JavaScript, Node.js, React</strong>
 - 📫 My email: oluis10@gmail.com
 
 <br>
