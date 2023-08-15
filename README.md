@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    My name is Luís Felipe, <strong>I'm a Back-end developer</strong>
+    My name is Luís Felipe, <strong>I'm a Full-Stack developer</strong>
   </em>
 </p>
  
