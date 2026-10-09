@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://weddingplan.com.br"><img src="https://img.shields.io/badge/weddingplan.com.br-141414?style=flat-square&logo=googlechrome&logoColor=ff7a3d&labelColor=141414" alt="WeddingPlan" /></a>
-  <a href="https://www.linkedin.com/in/luisfdeveloper/"><img src="https://img.shields.io/badge/LinkedIn-141414?style=flat-square&logo=linkedin&logoColor=ededed&labelColor=141414" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/luisfdeveloper/"><img src="https://img.shields.io/badge/LinkedIn-141414?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2VkZWRlZCIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D&labelColor=141414" alt="LinkedIn" /></a>
   <a href="mailto:oluis10@gmail.com"><img src="https://img.shields.io/badge/oluis10@gmail.com-141414?style=flat-square&logo=gmail&logoColor=ededed&labelColor=141414" alt="Email" /></a>
 </p>
 
