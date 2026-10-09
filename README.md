@@ -65,7 +65,6 @@ Also:
 ### GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iLuiszin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=iLuiszin&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </p>
 
