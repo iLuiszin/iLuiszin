@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg?v=2" width="100%" alt="Luís Felipe, full-stack developer" />
+  <img src="./assets/hero.svg?v=3" width="100%" alt="Luís Felipe, full-stack developer" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 <br />
 
-<img src="./assets/h-focus.svg?v=2" width="100%" alt="What I focus on" />
+<img src="./assets/h-focus.svg?v=3" width="100%" alt="What I focus on" />
 
 Backend-leaning full-stack developer at [Luby](https://www.luby.com.br/). I own features from the database to the screen: schema and access rules, APIs, and the React UI on top. **AI is one of my main focuses**, in how I build software and in what I ship.
 
@@ -33,19 +33,19 @@ Backend-leaning full-stack developer at [Luby](https://www.luby.com.br/). I own 
 
 <br />
 
-<img src="./assets/h-work.svg?v=2" width="100%" alt="Things I've built" />
+<img src="./assets/h-work.svg?v=3" width="100%" alt="Things I've built" />
 
 <p align="center">
-  <a href="https://weddingplan.com.br"><img src="./assets/card-weddingplan.svg?v=2" width="100%" alt="WeddingPlan" /></a>
+  <a href="https://weddingplan.com.br"><img src="./assets/card-weddingplan.svg?v=3" width="100%" alt="WeddingPlan" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/iLuiszin/fullstack-challenge"><img src="./assets/card-tasks.svg?v=2" width="49%" alt="Collaborative tasks" /></a>
-  <a href="https://github.com/iLuiszin/shopper-teste"><img src="./assets/card-meter.svg?v=2" width="49%" alt="AI meter reading" /></a>
+  <a href="https://github.com/iLuiszin/fullstack-challenge"><img src="./assets/card-tasks.svg?v=3" width="49%" alt="Collaborative tasks" /></a>
+  <a href="https://github.com/iLuiszin/shopper-teste"><img src="./assets/card-meter.svg?v=3" width="49%" alt="AI meter reading" /></a>
 </p>
 
 <br />
 
-<img src="./assets/h-stack.svg?v=2" width="100%" alt="Stack" />
+<img src="./assets/h-stack.svg?v=3" width="100%" alt="Stack" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,react,vite,tailwind,postgres,supabase,nestjs,go,docker,githubactions,vercel&perline=12&theme=dark" alt="Tech stack" />
@@ -53,7 +53,7 @@ Backend-leaning full-stack developer at [Luby](https://www.luby.com.br/). I own 
 
 <br />
 
-<img src="./assets/h-activity.svg?v=2" width="100%" alt="Activity" />
+<img src="./assets/h-activity.svg?v=3" width="100%" alt="Activity" />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iLuiszin&hide_border=true&background=141414&ring=ff7a3d&fire=ff7a3d&currStreakNum=ededed&sideNums=ededed&currStreakLabel=ededed&sideLabels=a3a3a3&dates=6b6b6b&stroke=2a2a2a&border_radius=8" width="100%" alt="GitHub streak" />
