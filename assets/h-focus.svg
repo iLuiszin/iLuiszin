@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="44" viewBox="0 0 880 44" role="img" aria-label="Focus">
-<defs><style>
-.mono{font-family:ui-monospace,"SF Mono","JetBrains Mono",Menlo,Consolas,monospace}
-.sans{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
-</style></defs>
-<text x="0" y="28" class="mono" font-size="13" fill="#14b8a6">01</text>
-<text x="34" y="28" class="mono" font-size="13" letter-spacing="3" fill="#c3d4d9">FOCUS</text>
-<line x1="101.0" y1="23" x2="880" y2="23" stroke="#1f3340"/>
-</svg>

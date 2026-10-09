@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="190" viewBox="0 0 880 190" role="img" aria-label="Luís Felipe, software engineer in Brasília">
+<style>
+.serif{font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif}
+.mono{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace}
+</style>
+<text x="0" y="30" class="mono" font-size="12" letter-spacing="2.5" fill="#6f695d">SOFTWARE ENGINEER · BRASÍLIA</text>
+<text x="-3" y="112" class="serif" font-size="78" fill="#1f1d1a" letter-spacing="-1">Luís Felipe<tspan fill="#a8741a">.</tspan></text>
+<line x1="0" y1="146" x2="880" y2="146" stroke="#d8d2c4"/>
+<text x="0" y="174" class="serif" font-size="18" font-style="italic" fill="#6f695d">I build products end to end, and I build them with a team of AI agents.</text>
+</svg>

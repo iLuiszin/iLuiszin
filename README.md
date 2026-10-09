@@ -1,67 +1,37 @@
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Luís Felipe, AI-native full-stack engineer" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+  <img src="./assets/hero-light.svg" width="100%" alt="Luís Felipe, software engineer in Brasília" />
+</picture>
 
-<p align="center">
-  <a href="https://weddingplan.com.br"><img src="https://img.shields.io/badge/weddingplan.com.br-0a1116?style=flat-square&logo=googlechrome&logoColor=14b8a6&labelColor=0a1116" alt="WeddingPlan" /></a>
-  <a href="https://www.linkedin.com/in/luisfdeveloper/"><img src="https://img.shields.io/badge/LinkedIn-0a1116?style=flat-square&logo=linkedin&logoColor=7dd3c8&labelColor=0a1116" alt="LinkedIn" /></a>
-  <a href="mailto:oluis10@gmail.com"><img src="https://img.shields.io/badge/oluis10@gmail.com-0a1116?style=flat-square&logo=gmail&logoColor=f59e0b&labelColor=0a1116" alt="Email" /></a>
-</p>
+I'm a developer at [Luby](https://www.luby.com.br/), mostly on the backend, but I like owning a feature all the way: the schema and its access rules, the API, and the React screen on top of it.
 
-<br />
+Most of my time outside work goes into **[WeddingPlan](https://weddingplan.com.br)**, a platform for planning weddings and other events. Couples and professional planners use it for guest lists, RSVPs, budgets, tasks, invitations and a public event site. It's a private repo, so the work doesn't show up here, but it's close to 4,000 commits this year.
 
-<img src="./assets/h-focus.svg" width="100%" alt="01 Focus" />
+### How I work with AI
 
-Backend-leaning full-stack developer at [Luby](https://www.luby.com.br/). I own features from the database to the screen: schema and access rules, APIs, and the React UI on top. **AI is one of my main focuses**, in how I build software and in what I ship.
+AI is one of my main focuses, in two ways.
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <sub><code>AI-NATIVE ENGINEERING</code></sub><br /><br />
-      I run teams of coding agents (Claude, Codex) in parallel waves, each in its own git worktree, with automated review, CI gates and browser QA before anything merges.
-    </td>
-    <td width="33%" valign="top">
-      <sub><code>AI IN THE PRODUCT</code></sub><br /><br />
-      LLM features in production: an in-app assistant with tool calling, intent routing, token budgets and usage limits, plus AI-written invitation drafts.
-    </td>
-    <td width="33%" valign="top">
-      <sub><code>QUALITY BAR</code></sub><br /><br />
-      End-to-end type safety, automated tests at every layer (Vitest, Playwright, pgTAP) and error monitoring, so AI-generated work stays reviewable and safe.
-    </td>
-  </tr>
-</table>
+**In the workflow.** I treat coding agents like a small team. A project gets split into issues with a dependency graph, each agent works on one issue in its own git worktree, and nothing merges without a separate reviewer agent, green CI and a QA pass on staging. My job is the spec, the review rules and the final call. Most of WeddingPlan has been built this way.
+
+**In the product.** WeddingPlan ships an assistant that can actually do things in the app through tool calls, with intent routing, per-plan token budgets and usage limits, and it writes invitation drafts.
+
+### Some things I've built
+
+- **[WeddingPlan](https://weddingplan.com.br)**: React 19, TypeScript, Supabase, Postgres with row-level security, edge functions, Vitest, Playwright and pgTAP.
+- **[Collaborative task manager](https://github.com/iLuiszin/fullstack-challenge)**: a technical challenge done as NestJS microservices over RabbitMQ, with JWT auth, real-time notifications over WebSocket, structured logs and a React 19 front end.
+- **[AI meter reading](https://github.com/iLuiszin/shopper-teste)**: a backend that reads water and gas meters from photos with an AI vision model. Node.js, TypeScript, Prisma, Docker.
+
+### Tools I reach for
+
+TypeScript · Node.js · React · PostgreSQL · Supabase · NestJS · TanStack Query · Tailwind · Vitest · Playwright · Docker · GitHub Actions · a bit of Go
+
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/luisfdeveloper/) · [oluis10@gmail.com](mailto:oluis10@gmail.com)
 
 <br />
 
-<img src="./assets/h-work.svg" width="100%" alt="02 Selected work" />
-
-<p align="center">
-  <a href="https://weddingplan.com.br"><img src="./assets/card-weddingplan.svg" width="100%" alt="WeddingPlan" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/iLuiszin/fullstack-challenge"><img src="./assets/card-tasks.svg" width="49%" alt="Collaborative tasks" /></a>
-  <a href="https://github.com/iLuiszin/shopper-teste"><img src="./assets/card-meter.svg" width="49%" alt="AI meter reading" /></a>
-</p>
-
-<br />
-
-<img src="./assets/h-stack.svg" width="100%" alt="03 Stack" />
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,vite,tailwind,postgres,supabase,nestjs,go,docker,githubactions,vercel&perline=12&theme=dark" alt="Tech stack" />
-</p>
-
-<br />
-
-<img src="./assets/h-activity.svg" width="100%" alt="04 Activity" />
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iLuiszin&hide_border=true&background=0a1116&ring=14b8a6&fire=f59e0b&currStreakNum=e6f1f2&sideNums=e6f1f2&currStreakLabel=7dd3c8&sideLabels=7f98a3&dates=5b7380&stroke=1f3340&border_radius=12" width="100%" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iLuiszin/iLuiszin/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/iLuiszin/iLuiszin/output/github-snake.svg" width="100%" alt="Contribution snake" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iLuiszin/iLuiszin/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/iLuiszin/iLuiszin/output/github-snake.svg" width="100%" alt="Contribution graph being eaten by a snake" />
+</picture>
