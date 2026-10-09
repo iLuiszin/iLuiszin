@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Lu%C3%ADs%20Felipe&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20developer%20%C2%B7%20Bras%C3%ADlia%2C%20Brazil&descAlignY=56&descSize=18" alt="Luís Felipe" />
-</p>
-
-<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Lu%C3%ADs%20Felipe&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-stack%20developer%20%C2%B7%20Bras%C3%ADlia%2C%20Brazil&descAlignY=64&descSize=18" alt="Luís Felipe" />
+  <br />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=4FB3D9&center=true&vCenter=true&width=620&lines=AI-native+engineering+with+coding+agents;TypeScript+%C2%B7+Node.js+%C2%B7+React+%C2%B7+PostgreSQL;Building+WeddingPlan%2C+a+SaaS+for+event+planning;Type+safety%2C+tests+and+observability+first" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=4FB3D9&center=true&vCenter=true&width=620&height=32&lines=AI-native+engineering+with+coding+agents;TypeScript+%C2%B7+Node.js+%C2%B7+React+%C2%B7+PostgreSQL;Building+WeddingPlan%2C+a+SaaS+for+event+planning;Type+safety%2C+tests+and+observability+first" alt="Typing SVG" />
   </a>
 </p>
 
