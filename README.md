@@ -7,6 +7,15 @@ I'm a developer at [Luby](https://www.luby.com.br/), mostly on the backend, but 
 
 Most of my time outside work goes into **[WeddingPlan](https://weddingplan.com.br)**, a platform for planning weddings and other events. Couples and professional planners use it for guest lists, RSVPs, budgets, tasks, invitations and a public event site. It's a private repo, so the work doesn't show up here, but it's close to 4,000 commits this year.
 
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/roteiro-dark.svg" />
+  <img src="./assets/roteiro-light.svg" width="100%" alt="A typical weekday as a run sheet: backend work at Luby by day, WeddingPlan with a crew of AI agents by night" />
+</picture>
+
+<sub><i>"Roteiro" is the run sheet screen in WeddingPlan. This is mine.</i></sub>
+
 ### How I work with AI
 
 AI is one of my main focuses, in two ways.
